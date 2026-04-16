@@ -6,12 +6,12 @@ Complete this file **after** your solutions in `codes/` are done and tested. Wri
 
 ## What changed compared to my plan
 
-_(Did you finish questions in a different order? Spend more time on one exercise than you expected? Update filenames or structure?)_
+In Plan CS, I said I’ll take a note of the part that I didn’t understand well. Nevertheless, I didn’t take any of them; I assumed I could memorize them, but the reality is that I continually make mistakes or don’t even know where to start. My mindset is a problem…
 
 ## What was difficult
 
-_(Name specific exercises or ideas—for example loops, `print` formatting, or a bug that took a while to fix.)_
+The questions that I have been asked were all basic algebra questions; however, it was quite challenging to establish an equation, especially due to its unique and unfamiliar cs language. For instance, the footer division “//” was a new thing from the division “/” I initially tried. In addition, the question of percentage… it was harder than I expected, because I didn’t understand the question.
 
 ## What I learned
 
-_(One or two concrete habits or Python ideas you will use on the next assignment—not generic praise.)_
+I learned that “pass” was a placeholder in the function, also I learned something associated with calculation, such as floor division (//), calculating percentage… Eventually, I learned the difference of 三元运算符 between Python and JavaScript: value (True) if condition else value (False) VS. condition ? expressionIfTrue : expressionIfFalse.
