@@ -17,13 +17,9 @@ Complete the first eight CodeHS Python basics exercises and save each solution a
 
 ## Time plan
 
-| When | Goal |
-|------|------|
-| Session 1 | Finish `planning.md`; complete questions 1–2 in `codes/` |
-| Session 2 | Complete questions 3–5 |
-| Session 3 | Complete questions 6–8; quick review |
-| Before due | Finish `reflection.md`; confirm GitHub shows steady commits |
+Apr.14th: To complete the first 4 assignments, focused on the Python keywords and key grammar differences with other cs languages. Like Boolean, floor division (//), and so on. 
 
+Apr.15th: To complete the rest of the assignments. At the same time, using the new languages I learned yesterday to solve the question without any searching or assistance supports. If I missed something at some point, pass it and come back to the question; search for the part I didn’t understand well, and take a note. 
 Adjust dates to your schedule; keep commits **spread across the days you actually work**.
 
 ## Possible challenges
